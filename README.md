@@ -1,6 +1,6 @@
 * 👋 Hi, I’m Lin
 * 👀 I’m interested in autonomous cars and game development
-* 🌱 I’m currently learning computer science in Sydney \\
+* 🌱 I’m currently learning computer science in Sydney
 * 💞️ I’m looking to collaborate with the people who have the same interests as me.
 
 <!---
