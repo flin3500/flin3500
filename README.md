@@ -1,5 +1,4 @@
-### Hi there 👋 
-### This is Lin!
+### Hi there, This is Lin! 👋 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fengguang-l/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lin.acandc@gmail.com)
