@@ -13,7 +13,7 @@
 ### 💡 Goals for 2022
 - [ ] Finish my first Operation System
 - [ ] Finish my first Developer Game based on GAN
-- [ ] Finish my first compiler
+- [ ] Finish my first Compiler
 - [ ] Finish my first Browser Kernel
 - [ ] Finish my first Central Processing Unit
 
