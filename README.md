@@ -6,10 +6,17 @@
 
 ### 😄 About Me 
 
-* 🌱 I’m currently learning computer science in Sydney
-* 👀 I’m interested in autonomous cars and game development
+* 🌱 I’m currently learning computer science in Sydney.
+* 👀 I’m interested in Autonomous cars, Game development and FinTech.
 * 💞️ I’m looking to collaborate with the people who have the same interests as me.
 
 ### 💡 Goals for 2022
-- Finish my Operation System.
-- Finish my first developer game based on GAN.
+- [ ] Finish my first Operation System
+- [ ] Finish my first Developer Game based on GAN
+- [ ] Finish my first compiler
+- [ ] Finish my first Browser Kernel
+- [ ] Finish my first Central Processing Unit
+
+### 📚 My Principle
+1. Life is short, keep learning.
+2. Efficiency stands first.
