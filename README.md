@@ -10,7 +10,7 @@
 * 👀 I’m interested in Autonomous cars, Game development and FinTech.
 * 💞️ I’m looking to collaborate with the people who have the same interests as me.
 
-### 💡 Goals for 2022
+### 💡 Goals for ~~2022~~ ~~2023~~ 2024
 - [ ] Finish my first Operation System
 - [ ] Finish my first Developer Game based on GAN
 - [ ] Finish my first Compiler
